@@ -1,0 +1,17 @@
+# NLP Product Review Summarizer & Sentiment Analyzer
+# Install all dependencies with: pip install -r requirements.txt
+
+# Core Data & ML
+nltk==3.8.1
+scikit-learn==1.3.0
+pandas==2.0.3
+numpy==1.24.3
+
+# Web Server
+flask==3.0.0
+pyngrok==7.0.0
+
+# Utilities
+requests==2.31.0
+beautifulsoup4==4.12.2
+zipfile36==0.1.3
